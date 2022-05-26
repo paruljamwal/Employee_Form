@@ -1,0 +1,37 @@
+.redborder{
+    border: 2px solid red;
+}
+
+.forms{
+    margin-top: 5%;
+}
+
+.box{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    margin-left: 30%;
+    padding-top: 4px;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(246, 209, 209);
+}
+
+.data{
+    padding: 4px;
+    margin: 3%;
+}
+
+.btn{
+    color:whitesmoke;
+    font-weight: bolder;
+    cursor: pointer;
+    background-color:rgb(4,170,109);
+    border: none;
+    width: 300px;
+    height: 30px;
+}
+
+.clr{
+    color:rgb(4,170,109);
+    font-weight: bolder;
+    margin: 5px;
+}
